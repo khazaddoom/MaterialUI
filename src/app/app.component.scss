@@ -1,0 +1,14 @@
+:host {
+    display: flex;
+    justify-content: center;
+    transform: translateY(50%);
+}
+
+mat-card {
+   width: 25rem;
+}
+
+mat-card-header, mat-card-content, mat-card-actions {
+    display: flex;
+    justify-content: center;
+}
